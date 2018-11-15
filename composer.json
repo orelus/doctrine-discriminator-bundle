@@ -1,5 +1,5 @@
 {
-    "name": "levelab/doctrine-discriminator-bundle",
+    "name": "orelus/doctrine-discriminator-bundle",
     "type": "symfony-bundle",
     "description": "Symfony-ready Doctrine DiscriminatorMap extension, which allows to move mapping from superclass to subclasses",
     "keywords": ["symfony2", "doctrine2", "extension", "discriminator", "map"],
